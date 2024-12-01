@@ -12,6 +12,8 @@ public class Pelicula {
 	
 	double sumaDeLasEvaluaciones;
 	
+	int totalDeLasEvaluaciones;
+	
 	void nuestraFichaTecnica() {
 		 System.out.println("El nombre de la pelicula es: " + nombre);
 		 System.out.println("Su fecha de lanzamiento es: " + fechaDeLanzamiento);
@@ -20,7 +22,10 @@ public class Pelicula {
 		 
 	void evalua(double nota) {
 		sumaDeLasEvaluaciones += nota;
-
+		totalDeLasEvaluaciones++;
 	}
 
+	double calculaMedia() {
+		return sumaDeLasEvaluaciones / totalDeLasEvaluaciones;
+	}
 }
