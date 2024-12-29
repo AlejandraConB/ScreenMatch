@@ -1,6 +1,7 @@
 ## 🖥️ Tecnologías Utilizadas:
 
 - Java
+- JSON/GSON
 - Eclipse IDEA
 </br>
 
