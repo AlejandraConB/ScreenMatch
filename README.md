@@ -18,6 +18,7 @@
 
 ## ▶️ Cómo ejecutar:
 
+- Clona o descarga el proyecto.
 - Compila todas las clases: javac *.java 
 - Ejecuta la clase principal: java com.alura.screenmatch.principal.Principal
 
