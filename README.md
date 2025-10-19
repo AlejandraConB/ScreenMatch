@@ -20,6 +20,13 @@
 
 - Compila todas las clases: javac *.java 
 - Ejecuta la clase principal: java com.alura.screenmatch.principal.Principal
+
+## 📁 Estructura clave
+
+- Pelicula.java, Serie.java: Modelos con ficha técnica y evaluaciones.
+- CalculadoraDeTiempo.java: Suma duraciones.
+- FiltroRecomendacion.java: Analiza calidad del contenido.
+- Episodio.java: Representa episodios de series.
 </br>
 
 💙 <strong>Alejandra Contreras</strong></br>
