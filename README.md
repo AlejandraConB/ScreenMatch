@@ -13,7 +13,7 @@
 
 ## 📦 Requisitos:
 
-- Java 8+
+- Java 8 o superior.
 - IDE: como IntelliJ o Eclipse.
 
 ## ▶️ Cómo ejecutar:
@@ -21,7 +21,7 @@
 - Compila todas las clases: javac *.java 
 - Ejecuta la clase principal: java com.alura.screenmatch.principal.Principal
 
-## 📁 Estructura clave
+## 📁 Estructura clave:
 
 - Pelicula.java, Serie.java: Modelos con ficha técnica y evaluaciones.
 - CalculadoraDeTiempo.java: Suma duraciones.
