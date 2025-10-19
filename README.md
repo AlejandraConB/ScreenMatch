@@ -4,19 +4,19 @@
 - JSON/GSON.
 - Eclipse IDE.
 
-## 🎯 Funcionalidades
+## 🎯 Funcionalidades:
 
 - Crea y evalúa películas y series.
 - Calcula el tiempo total de contenido con CalculadoraDeTiempo.
 - Filtra recomendaciones con FiltroRecomendacion.
 - Usa colecciones (ArrayList) para gestionar múltiples películas.
 
-## 📦 Requisitos
+## 📦 Requisitos:
 
 - Java 8+
 - IDE: como IntelliJ o Eclipse.
 
-## ▶️ Cómo ejecutar
+## ▶️ Cómo ejecutar:
 
 - Compila todas las clases: javac *.java 
 - Ejecuta la clase principal: java com.alura.screenmatch.principal.Principal
