@@ -1,8 +1,15 @@
 ## 🖥️ Tecnologías Utilizadas:
 
-- Java
-- JSON/GSON
-- Eclipse IDEA
+- Java.
+- JSON/GSON.
+- Eclipse IDE.
+
+## 🎯 Funcionalidades
+
+- Crea y evalúa películas y series.
+- Calcula el tiempo total de contenido con CalculadoraDeTiempo.
+- Filtra recomendaciones con FiltroRecomendacion.
+- Usa colecciones (ArrayList) para gestionar múltiples películas.
 </br>
 
 💙 <strong>Alejandra Contreras</strong></br>
